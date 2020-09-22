@@ -1,0 +1,28 @@
+@using System.Diagnostics
+
+@{
+    var version = FileVersionInfo.GetVersionInfo(typeof(IdentityServer4.Hosting.IdentityServerMiddleware).Assembly.Location).ProductVersion.Split('+').First();
+}
+
+<div class="welcome-page">
+    <h1>
+        <img src="~/icon.jpg">
+        IdentityServer4'e Hoşgeldiniz
+        <small class="text-muted">(version @version)</small>
+    </h1>
+
+    <ul>
+        <li>
+            IdentityServer4 tarafından yayınlanan
+            <a href="~/.well-known/openid-configuration">keşif belgesine</a>
+            göz atın
+        </li>
+        <li>
+            <a href="~/diagnostics">Buraya tıklayarak</a> geçerli oturumdaki bilgiliere ulaşabilirsiniz
+        </li>
+        <li>
+            <a href="~/grants">Buraya tıklayarak</a> kayıtlı uygulamaları görebilirsiniz
+        </li>
+
+    </ul>
+</div>
