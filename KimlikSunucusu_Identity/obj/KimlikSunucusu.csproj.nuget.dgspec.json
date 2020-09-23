@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\erkan\\source\\repos\\IdentityServer\\KimlikSunucusu_Identity\\KimlikSunucusu.csproj": {}
+    "C:\\Users\\erkan\\OneDrive\\Belgeler\\GitHub\\IdentityServer4-test\\KimlikSunucusu_Identity\\KimlikSunucusu.csproj": {}
   },
   "projects": {
-    "C:\\Users\\erkan\\source\\repos\\IdentityServer\\KimlikSunucusu_Identity\\KimlikSunucusu.csproj": {
+    "C:\\Users\\erkan\\OneDrive\\Belgeler\\GitHub\\IdentityServer4-test\\KimlikSunucusu_Identity\\KimlikSunucusu.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\erkan\\source\\repos\\IdentityServer\\KimlikSunucusu_Identity\\KimlikSunucusu.csproj",
+        "projectUniqueName": "C:\\Users\\erkan\\OneDrive\\Belgeler\\GitHub\\IdentityServer4-test\\KimlikSunucusu_Identity\\KimlikSunucusu.csproj",
         "projectName": "KimlikSunucusu",
-        "projectPath": "C:\\Users\\erkan\\source\\repos\\IdentityServer\\KimlikSunucusu_Identity\\KimlikSunucusu.csproj",
+        "projectPath": "C:\\Users\\erkan\\OneDrive\\Belgeler\\GitHub\\IdentityServer4-test\\KimlikSunucusu_Identity\\KimlikSunucusu.csproj",
         "packagesPath": "C:\\Users\\erkan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\erkan\\source\\repos\\IdentityServer\\KimlikSunucusu_Identity\\obj\\",
+        "outputPath": "C:\\Users\\erkan\\OneDrive\\Belgeler\\GitHub\\IdentityServer4-test\\KimlikSunucusu_Identity\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

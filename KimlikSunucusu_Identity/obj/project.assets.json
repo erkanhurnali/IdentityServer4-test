@@ -4178,11 +4178,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\erkan\\source\\repos\\IdentityServer\\KimlikSunucusu_Identity\\KimlikSunucusu.csproj",
+      "projectUniqueName": "c:\\Users\\erkan\\OneDrive\\Belgeler\\GitHub\\IdentityServer4-test\\KimlikSunucusu_Identity\\KimlikSunucusu.csproj",
       "projectName": "KimlikSunucusu",
-      "projectPath": "c:\\Users\\erkan\\source\\repos\\IdentityServer\\KimlikSunucusu_Identity\\KimlikSunucusu.csproj",
+      "projectPath": "c:\\Users\\erkan\\OneDrive\\Belgeler\\GitHub\\IdentityServer4-test\\KimlikSunucusu_Identity\\KimlikSunucusu.csproj",
       "packagesPath": "C:\\Users\\erkan\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\erkan\\source\\repos\\IdentityServer\\KimlikSunucusu_Identity\\obj\\",
+      "outputPath": "c:\\Users\\erkan\\OneDrive\\Belgeler\\GitHub\\IdentityServer4-test\\KimlikSunucusu_Identity\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

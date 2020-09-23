@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "An+kh8ukdUWb8LFe6pvDuN96Mdw5C8ZATxn40zBOclHkNAxZCIX45lZRzOVy/higXc0pgrpR0OZh38bvN+Ybng==",
+  "dgSpecHash": "bM3pwltKm9WuV/4UAgHSlDRPN2Rbv9c9GzkcWLEhoO3dZ2BtJs5cxV1JAVpM1ihb0GQKMEWX6Nk0q5u0u+jQFg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\erkan\\source\\repos\\IdentityServer\\istemci1\\istemci1.csproj",
+  "projectFilePath": "C:\\Users\\erkan\\OneDrive\\Belgeler\\GitHub\\IdentityServer4-test\\TestAPI\\istemci1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\erkan\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\3.1.8\\microsoft.aspnetcore.authentication.jwtbearer.3.1.8.nupkg.sha512",
     "C:\\Users\\erkan\\.nuget\\packages\\microsoft.csharp\\4.3.0\\microsoft.csharp.4.3.0.nupkg.sha512",

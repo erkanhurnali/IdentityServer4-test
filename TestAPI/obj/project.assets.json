@@ -3586,11 +3586,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\erkan\\source\\repos\\IdentityServer\\istemci1\\istemci1.csproj",
+      "projectUniqueName": "c:\\Users\\erkan\\OneDrive\\Belgeler\\GitHub\\IdentityServer4-test\\TestAPI\\istemci1.csproj",
       "projectName": "istemci1",
-      "projectPath": "C:\\Users\\erkan\\source\\repos\\IdentityServer\\istemci1\\istemci1.csproj",
+      "projectPath": "c:\\Users\\erkan\\OneDrive\\Belgeler\\GitHub\\IdentityServer4-test\\TestAPI\\istemci1.csproj",
       "packagesPath": "C:\\Users\\erkan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\erkan\\source\\repos\\IdentityServer\\istemci1\\obj\\",
+      "outputPath": "c:\\Users\\erkan\\OneDrive\\Belgeler\\GitHub\\IdentityServer4-test\\TestAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\erkan\\source\\repos\\IdentityServer\\JavaScriptClient\\JavaScriptClient.csproj": {}
+    "C:\\Users\\erkan\\OneDrive\\Belgeler\\GitHub\\IdentityServer4-test\\JavaScriptClient\\JavaScriptClient.csproj": {}
   },
   "projects": {
-    "C:\\Users\\erkan\\source\\repos\\IdentityServer\\JavaScriptClient\\JavaScriptClient.csproj": {
+    "C:\\Users\\erkan\\OneDrive\\Belgeler\\GitHub\\IdentityServer4-test\\JavaScriptClient\\JavaScriptClient.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\erkan\\source\\repos\\IdentityServer\\JavaScriptClient\\JavaScriptClient.csproj",
+        "projectUniqueName": "C:\\Users\\erkan\\OneDrive\\Belgeler\\GitHub\\IdentityServer4-test\\JavaScriptClient\\JavaScriptClient.csproj",
         "projectName": "JavaScriptClient",
-        "projectPath": "C:\\Users\\erkan\\source\\repos\\IdentityServer\\JavaScriptClient\\JavaScriptClient.csproj",
+        "projectPath": "C:\\Users\\erkan\\OneDrive\\Belgeler\\GitHub\\IdentityServer4-test\\JavaScriptClient\\JavaScriptClient.csproj",
         "packagesPath": "C:\\Users\\erkan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\erkan\\source\\repos\\IdentityServer\\JavaScriptClient\\obj\\",
+        "outputPath": "C:\\Users\\erkan\\OneDrive\\Belgeler\\GitHub\\IdentityServer4-test\\JavaScriptClient\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

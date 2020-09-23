@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xB6KUq0fG5FTrqiJgnR+HKSTfAnUg4vDtsbR4Ps4ceBU7q+J8dY+6Tmlna5IyOPIX83BXRDCJKjRpXfs4K64aA==",
+  "dgSpecHash": "W4OjVFPxow/D6o06xdXDCoBbZVZM2Px0beuN6oNqvexaZSG5hsnDDssrXHdIh5fCBHaUbN6BLYdVNc8GEXz7Cw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\erkan\\source\\repos\\IdentityServer\\KimlikSunucusu_Identity\\KimlikSunucusu.csproj",
+  "projectFilePath": "C:\\Users\\erkan\\OneDrive\\Belgeler\\GitHub\\IdentityServer4-test\\KimlikSunucusu_Identity\\KimlikSunucusu.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\erkan\\.nuget\\packages\\identitymodel\\4.3.0\\identitymodel.4.3.0.nupkg.sha512",
     "C:\\Users\\erkan\\.nuget\\packages\\identityserver4\\4.0.0\\identityserver4.4.0.0.nupkg.sha512",

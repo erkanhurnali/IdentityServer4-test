@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ToKrvqMdfMCV9fOxVp/McCaowaVIbgxjsatPRHwrnsLiJlD5X72V4aRTn1kdOlXS60Hymr8hVKDANxLemXo9VQ==",
+  "dgSpecHash": "ySdwf1QqwFPaVF1yOSyx1LPLqHXK/WeAEuixIjmN/BuOOIbdkRxUHdwomHfkjdkBOaScjqYYuqCXKdY4IDriDA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\erkan\\source\\repos\\IdentityServer\\JavaScriptClient\\JavaScriptClient.csproj",
+  "projectFilePath": "C:\\Users\\erkan\\OneDrive\\Belgeler\\GitHub\\IdentityServer4-test\\JavaScriptClient\\JavaScriptClient.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
